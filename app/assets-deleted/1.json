@@ -1,0 +1,19 @@
+{
+    "name": "EB_B",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "HBF3TgmtocBecadWrxgTNNjvpb4aYG31xuS9n5WxWqLy",
+          "share": 100
+        }
+      ]
+    }
+  }
